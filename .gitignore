@@ -3,6 +3,7 @@
 *~
 *.log
 *.txt
+rx
 sx
 tty2tty
 

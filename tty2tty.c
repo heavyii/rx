@@ -78,7 +78,6 @@ int main(void) {
 				if (read(fd2, &c2, 1) == 1 && write(fd1, &c2, 1) == 1)
 					continue;
 			}
-			perror("read & write");
 		}
 	};
 
