@@ -1,0 +1,10 @@
+*.out
+*.o
+*~
+*.log
+*.txt
+sx
+tty2tty
+
+.project
+.cproject
